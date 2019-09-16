@@ -1,1 +1,1 @@
-# Libjackreadled
+# LabJack read imput
